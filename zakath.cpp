@@ -31,8 +31,3 @@ int main(){
     zakath zq;
     zq.sum();
 }
-
-
-
-
-
